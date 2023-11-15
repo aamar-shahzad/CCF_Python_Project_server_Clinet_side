@@ -1,0 +1,11 @@
+{
+  "actions": [
+    {
+      "name": "set_member",
+      "args": {
+        "cert": "-----BEGIN CERTIFICATE-----\nMIIBtTCCATygAwIBAgIUQtuZax3lLe6YdOv4di6U0si0GtIwCgYIKoZIzj0EAwMw\nEjEQMA4GA1UEAwwHbWVtYmVyMjAeFw0yMzExMTUwNTE0MjVaFw0yNDExMTQwNTE0\nMjVaMBIxEDAOBgNVBAMMB21lbWJlcjIwdjAQBgcqhkjOPQIBBgUrgQQAIgNiAAQ5\nfbhWiCUCNOB/qsghN2GmD7OgYn407/3GvTnum15eXwJu65t8NAuoa5erueSegTG3\nBUOnE3M4E6uR9ou4E+U+xN+iw2hsjaGINQRZ+SghpBa+CW2jgl9N495tXhSlCjuj\nUzBRMB0GA1UdDgQWBBSPrc/LpOrWFfa+sSs3E+dl7geM4DAfBgNVHSMEGDAWgBSP\nrc/LpOrWFfa+sSs3E+dl7geM4DAPBgNVHRMBAf8EBTADAQH/MAoGCCqGSM49BAMD\nA2cAMGQCMAZUEqROVeQ0/+v5Bi4z97LAtlNorf1Hv9P8DlCWZCoU5pLhLeqVapYP\nLVbI9n6/wQIwTUh/M5RpgpRj6eZxygoAHvaXfD+h1oN/fhlO/7tgMpgWEFeQ59Zu\nhCUI4dsJB4I8\n-----END CERTIFICATE-----\n",
+        "encryption_pub_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwGOIXy4loo0QT1DkZYzx\nGBK+hYHg/baKWl5U+hVnoPg6JM0aLAfMnRiAOn0ZDwaY/fdavrBkEe+equ/G7Hxp\nKGmN/+3tVdBfn2EVbpAHKOCIY1BQlP/udhwhNIx/nwRhFZZHNRyTzhy0AzZT5g+n\nwnQz2n5jk9itYyXFD3XemKTaI9vC+2KcBsS7P6HsoAX2RK9DsaCzwW0nGoq4n+zK\nAxX7XMPRywsCjNaUDeHDa+W19HClQxG4n3stej8eP4vvruGmLIyBikwRdWo1Ep3Q\nxrxcR+YhiBrscfouOpsb3qTpg1sKjgyUuJTueO4VV7Lv1jFqABNpDYJ6GfkzPuNb\nawIDAQAB\n-----END PUBLIC KEY-----\n"
+      }
+    }
+  ]
+}
