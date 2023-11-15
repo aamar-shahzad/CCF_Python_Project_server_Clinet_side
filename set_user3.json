@@ -1,0 +1,10 @@
+{
+  "actions": [
+    {
+      "name": "set_user",
+      "args": {
+        "cert": "-----BEGIN CERTIFICATE-----\nMIIBsTCCATigAwIBAgIUUghuOCU+dBNq+Aedd7ghqzPMU+8wCgYIKoZIzj0EAwMw\nEDEOMAwGA1UEAwwFdXNlcjMwHhcNMjMxMTE1MDUyMzI0WhcNMjQxMTE0MDUyMzI0\nWjAQMQ4wDAYDVQQDDAV1c2VyMzB2MBAGByqGSM49AgEGBSuBBAAiA2IABIz9+EvS\ntRKrK1oFsViQQyNO1zds4dT7LEcboOpYm1z6Pz6Hv3x8z9rCwayqwZjLk360rnsQ\n5FuB8j8AgYbx2kaReCHAqV3E3Z0LuunfbcH4pMM+zu5A4Wdi8puNgDyzWqNTMFEw\nHQYDVR0OBBYEFCoMqfxkPwuoFqTsiK0JN9+7+Mi/MB8GA1UdIwQYMBaAFCoMqfxk\nPwuoFqTsiK0JN9+7+Mi/MA8GA1UdEwEB/wQFMAMBAf8wCgYIKoZIzj0EAwMDZwAw\nZAIwc9xu/Z5iDw9lr7y7qUH9sLItos7s6vB/CW4tU+ymibYl3r1XWT9jMvbtjRb7\nW04wAjA3T323TR8GXlND47iq0cxlCCoCERAjigLeYtHpe20L9yzSiaMQ8uFUZzev\nmfgpjxI=\n-----END CERTIFICATE-----\n"
+      }
+    }
+  ]
+}
